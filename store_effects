@@ -58,6 +58,11 @@
       "title": "Flame",
       "link_download": "Flame.zip",
       "link_thumb": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/smoke.PNG"
+    },
+     {
+      "title": "LaserBeam",
+      "link_download": "LaserBeam.zip",
+      "link_thumb": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/smoke.PNG"
     }
    
   ]
