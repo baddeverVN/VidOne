@@ -25,23 +25,28 @@
       "link_thumb": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg"
     },
     {
-      "title": "Beaumonde",
+      "title": "BeauMonde",
       "link_download": "Beaumonde.zip",
       "link_thumb": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg"
     },
     {
-      "title": "What'sup",
+      "title": "What'sUp",
       "link_download": "What'sup.zip",
       "link_thumb": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg"
     },
     {
-      "title": "Mydear",
+      "title": "MyDear",
       "link_download": "Mydear.zip",
       "link_thumb": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg"
     },
     {
-      "title": "Traveljournal",
+      "title": "TravelJournal",
       "link_download": "Traveljournal.zip",
+      "link_thumb": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg"
+    },
+    {
+      "title": "Ceremony",
+      "link_download": "Ceremony.zip",
       "link_thumb": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg"
     }
   ]
